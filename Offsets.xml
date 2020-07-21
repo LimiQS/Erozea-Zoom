@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Root>
   <DX9>
     <StructureAddress>1430150</StructureAddress>
@@ -8,12 +8,12 @@
     <FovMax>10C</FovMax>
   </DX9>
   <DX11>
-    <StructureAddress>1BF9B20</StructureAddress>
-    <ZoomCurrent>118</ZoomCurrent>
-    <ZoomMax>120</ZoomMax>
-    <FovCurrent>124</FovCurrent>
-    <FovMax>12C</FovMax>
+    <StructureAddress>1C5E260</StructureAddress>
+    <ZoomCurrent>114</ZoomCurrent>
+    <ZoomMax>11C</ZoomMax>
+    <FovCurrent>120</FovCurrent>
+    <FovMax>128</FovMax>
   </DX11>
-  <LastUpdate>2020-5-19 - 5.18</LastUpdate>
-  <Version>2020.05.12.0000.0000</Version>
+  <LastUpdate>2020-7-21 - 5.2</LastUpdate>
+  <Version>2020.07.16.0000.0000</Version>
 </Root>
